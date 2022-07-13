@@ -1,3 +1,8 @@
+# What is WebGL?
+
+WebGL is a graphics application programming interface (API) created for use in web applications. It is based off the open graphics language (OpenGL) embedded standard (ES). WebGL is used by developers to provide a platform-independent means of creating interactive graphical applications on the web.
+
+
 # WebGL Plugins
 
 WebGL (Web Graphics Library) is a JavaScript API for rendering high-performance interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins. WebGL does so by introducing an API that closely conforms to OpenGL ES 2.0 that can be used in HTML5 <canvas> elements. This conformance makes it possible for the API to take advantage of hardware graphics acceleration provided by the user's device.
